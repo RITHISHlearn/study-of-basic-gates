@@ -1,5 +1,5 @@
 ### EXPERIMENT 1 : study-of-basic-gates
-DATE: 12.03.2025
+ 
 
 **AIM:**  
 
@@ -84,22 +84,26 @@ xnor g7(c7,a,b);
 endmodule
 ```
 
- Developed by: rithish p
+ Developed by: Rithish P
  
  RegisterNumber: 212223230173
  
  
 **Logic symbol & Truthtable**
 
-![WhatsApp Image 2024-12-15 at 20 51 22 (1)](https://github.com/user-attachments/assets/527e40ec-2253-4cc5-a2aa-f1a0620cf56f)
+ ![WhatsApp Image 2025-03-17 at 13 52 47_02875e83](https://github.com/user-attachments/assets/a8b4b0da-4543-4ca4-a615-b2ac8021a265)
+
 
 **RTL realization Output:** 
 
+![WhatsApp Image 2025-03-17 at 13 53 03_4f58490b](https://github.com/user-attachments/assets/31f6cc41-22c9-44e1-a1ac-89261f0014f7)
 
 **RTL**
 
-![WhatsApp Image 2024-12-15 at 20 49 36 (2)](https://github.com/user-attachments/assets/d210c665-4a25-4130-b86c-65688cd2390d)
+![WhatsApp Image 2025-03-17 at 13 53 03_3857fdd1](https://github.com/user-attachments/assets/dc0bee27-b7e9-4d8e-89f7-055d1bd1d384)
 
+ 
 **Result:**
-
-![WhatsApp Image 2024-12-15 at 20 54 52 (1)](https://github.com/user-attachments/assets/b0adf2c7-13aa-4d33-a6b8-7a505aacd6da)
+ 
+Thus the basic logic gates are studied and truth tables are verified.
+ 
